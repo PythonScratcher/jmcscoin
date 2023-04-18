@@ -1,1 +1,1 @@
-[![Build Status](baller.png)]
+[![Build Status](baller.jpg)]
